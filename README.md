@@ -1,4 +1,4 @@
-![alt text](https://i.pinimg.com/originals/82/4b/87/824b877bf4c731e3fcc13a8881c3e982.jpg)
+![alt text](https://wallpapercave.com/wp/wp7664856.png)
 - 👋 Hey, I’m Prathamesh a Full Stack Developer.
 - 🌱 I work at EY (Ernst & Young).
 - 📫 How to reach me via mail : prathameshsarode80@gmail.com
